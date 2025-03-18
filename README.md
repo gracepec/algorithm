@@ -2,14 +2,7 @@
 
 ## 알고리즘 문제 풀이 기록
 
-### ✅ 백준 (Baekjoon)
+### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
 |----------|----------|------|
-| 1000 | A+B | [풀이](baekjoon/BOJ_1000.java) |
-| 1001 | A-B | [풀이](baekjoon/BOJ_1001.java) |
-
-### ✅ 프로그래머스 (Programmers)
-| 문제 번호 | 문제 이름 | 코드 |
-|----------|----------|------|
-| 42576 | 완주하지 못한 선수 | [풀이](programmers/P_42576.java) |
-| 12977 | 소수 만들기 | [풀이](programmers/P_12977.java) |
+| 158B | Taxi | [solved](codeforces/Taxi.py) |
