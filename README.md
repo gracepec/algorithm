@@ -7,4 +7,4 @@
 |----------|----------|------|
 | 158B | Taxi | [solved (py)](codeforces/Taxi.py) |
 | 160A | Twins | [solved (py)](codeforces/Twins.py) |
-| 327A | Flipping Game | [in progress (py)](codeforces/FlippingGame.py) |
+| 327A | Flipping Game - DP | [solved (py)](codeforces/FlippingGame.py) |
