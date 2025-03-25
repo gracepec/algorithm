@@ -1,33 +1,27 @@
 # https://codeforces.com/contest/327/problem/A
 
 n = int(input())
-C = list(map(int, input().split()))
+P = list(map(int, input().split()))
+
+so = P.count(1)
+mf = -1
 
 A = [0] * n
+for i, p in enumerate(P):
+    A[i] = 1 if p == 0 else -1
 
-dt = 0
+D = [0] * n
 for i in range(n):
-    if C[i] == 1:
-        dt += 1
-    if C[i] == 0:
-        dt -= 1
-    A[i] = dt
-print(A)
-maxi = A.index(max(A))
-mini = n-1 - list(reversed(A)).index(min(A))
+    D[i] = max(D[i-1] + A[i], A[i])
+    mf = max(mf, D[i])
 
-if maxi == 0 and C[0] == 0: 
-    maxi = -1
+print(so + mf)
 
-print(maxi+1, mini+1)
 
-for i in range(maxi+1, mini+1):
-    C[i] = 1 - C[i]
-print(C)
-res = C.count(1)
+'''
+result: max_flip을 계산해 처음 sum_one에 더한 값
 
-print(res)
-
-# progress in
-# 9
-# 1 1 0 0 1 0 1 1 1
+A: 0과 1을 1,-1로 변환
+D: DP배열에 최대부분합을 저장
+mf: 최종 최대부분합
+'''
