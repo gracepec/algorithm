@@ -11,3 +11,7 @@ for i in range(1, n):
 
 res = max(D)
 print(res)
+
+'''
+# 구간 연속합 최대 구하기
+'''

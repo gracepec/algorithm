@@ -17,10 +17,10 @@ for i in range(n):
 
 print(so + mf)
 
-
 '''
-result: max_flip을 계산해 처음 sum_one에 더한 값
+# 한 구간을 뒤집어 1의 수를 최대로 만들기 
 
+result: max_flip을 계산해 처음 sum_one에 더한 값
 A: 0과 1을 1,-1로 변환
 D: DP배열에 최대부분합을 저장
 mf: 최종 최대부분합

@@ -15,6 +15,8 @@ for i in range(n-k+1):
 
 print(res)
 
-'''
+''' 
+# k길이 이하의 구간 평균 최대값 구하기
+
 line 14: max 함수 대신에 if를 활용하니 시간초과 해결
 '''
