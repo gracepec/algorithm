@@ -14,7 +14,8 @@
 ### ✅ 백준 (Beakjoon)
 | 문제 번호 | 문제 이름 | 코드 |
 |----------|----------|------|
-| [1904](https://www.acmicpc.net/problem/1904) | Tile - Fibonacci | [solved (py)](beakjoon/tile.py) |
-| [1912](https://www.acmicpc.net/problem/1912) | Continuous Sum - DP | [solved (py)](beakjoon/ContinuousSum.py) |
-| [2156](https://www.acmicpc.net/problem/2156) | Drink Wine - DP | [solved (py)](beakjoon/DrinkWine.py) |
+| [1904](https://www.acmicpc.net/problem/1904) | Tile - Fibonacci | [solved (py)](baekjoon/Tile.py) |
+| [1912](https://www.acmicpc.net/problem/1912) | Continuous Sum - DP | [solved (py)](baekjoon/ContinuousSum.py) |
+| [2156](https://www.acmicpc.net/problem/2156) | Drink Wine - DP | [solved (py)](baekjoon/DrinkWine.py) |
 | [11053](https://www.acmicpc.net/problem/11053) | LIS - LIS | [solved (py)](baekjoon/LIS.py) |
+| [28279](https://www.acmicpc.net/problem/28279) | Deque - deque | [solved (py)](baekjoon/Deque.py) |
