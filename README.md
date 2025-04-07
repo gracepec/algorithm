@@ -19,3 +19,5 @@
 | [2156](https://www.acmicpc.net/problem/2156) | Drink Wine - DP | [solved (py)](baekjoon/DrinkWine.py) |
 | [11053](https://www.acmicpc.net/problem/11053) | LIS - LIS | [solved (py)](baekjoon/LIS.py) |
 | [28279](https://www.acmicpc.net/problem/28279) | Deque - deque | [solved (py)](baekjoon/Deque.py) |
+| [4949](https://www.acmicpc.net/problem/4949) | Balanced World - stack | [solved (py)](baekjoon/BalancedWorld.py) |
+| [9251](https://www.acmicpc.net/problem/9251) | LCS - LCS | [solved (py)](baekjoon/LCS.py) |
