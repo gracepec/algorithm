@@ -21,3 +21,5 @@
 | [28279](https://www.acmicpc.net/problem/28279) | Deque - deque | [solved (py)](baekjoon/Deque.py) |
 | [4949](https://www.acmicpc.net/problem/4949) | Balanced World - stack | [solved (py)](baekjoon/BalancedWorld.py) |
 | [9251](https://www.acmicpc.net/problem/9251) | LCS - LCS | [solved (py)](baekjoon/LCS.py) |
+| [16139](https://www.acmicpc.net/problem/16139) | HCI - prefix sum | [half solved (py)](baekjoon/HCI.py) |
+| [16139](https://www.acmicpc.net/problem/16139) | HCI - prefix sum | [solved (cpp)](baekjoon/HCI.cpp) |
