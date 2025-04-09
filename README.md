@@ -23,3 +23,5 @@
 | [9251](https://www.acmicpc.net/problem/9251) | LCS - LCS | [solved (py)](baekjoon/LCS.py) |
 | [16139](https://www.acmicpc.net/problem/16139) | HCI - prefix sum | [half solved (py)](baekjoon/HCI.py) |
 | [16139](https://www.acmicpc.net/problem/16139) | HCI - prefix sum | [solved (cpp)](baekjoon/HCI.cpp) |
+| [1931](https://www.acmicpc.net/problem/1931) | Assign Meeting Room - Greedy | [solved (py)](baekjoon/AssignMeetingRoom.py) |
+| [13305](https://www.acmicpc.net/problem/13305) | Gas Station - Greedy | [solved (py)](baekjoon/GasStation.py) |
