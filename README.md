@@ -27,4 +27,6 @@
 | [13305](https://www.acmicpc.net/problem/13305) | Gas Station - Greedy | [solved (py)](baekjoon/GasStation.py) |
 | [11286](https://www.acmicpc.net/problem/11286) | Abs Heap - heap | [solved (py)](baekjoon/AbsHeap.py) |
 | [2696](https://www.acmicpc.net/problem/2696) | Find Median - double heap | [solved (py)](baekjoon/FindMedian.py) |
-| [12865](https://www.acmicpc.net/problem/12865) | Knapsack | [in progress (py)](baekjoon/Knapsack.py) |
+| [12865](https://www.acmicpc.net/problem/12865) | Knapsack - DP | [solved (py)](baekjoon/Knapsack.py) |
+| [2293](https://www.acmicpc.net/problem/2293) | Coin1 - DP | [solved (py)](baekjoon/Coin1.py) |
+| [10986](https://www.acmicpc.net/problem/10986) | Remainder Sum - prefix sum | [solved (py)](baekjoon/RemainderSum.py) |
