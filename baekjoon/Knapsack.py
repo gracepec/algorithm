@@ -5,41 +5,40 @@ n, maxw = map(int, input().split())
 W = [0] * n
 V = [0] * n
 for i in range(n):
-    P = tuple(map(int, input().split()))
-    W[i] = P[0]
-    V[i] = P[1]
-    
-D = [[0] * (n+1) for _ in range(maxw+1)]
+    W[i], V[i] = map(int, input().split())
+
+D = [0] * (maxw+1)
 for i in range(n):
-    for wi in range(maxw):
-        if wi < W[i]:
-            D[i][wi] = D[i-1][wi]
-        else:
-            D[i][wi] = max(D[i-1][wi],  D[i-1][wi-W[i]] + V[i])
-        print(D)
-print(D[n][maxw])
-        
-    
+    for wi in range(maxw, W[i]-1, -1):
+        D[wi] = max(D[wi], V[i] + D[wi-W[i]])
+
+print(D[maxw])
+
 '''12865
 # 배낭문제 - DP
+ 배낭 최대무게(maxw)까지 Dynamic 배열 생성 - 인덱스(wi)를 무게로 활용
+ 각 원소에는 해당 무게(W)에서 가질 수 있는 최대의 가치(V)로 업데이트
+ 뒤에서 부터 업데이트 해야 본인이 중복되지 않고 한번씩만 포함될 수 있음
+ 
+1) [ 0 0 0 0 0 13 13 ]
+2) [ 0 0 0 8 8 13 13 ]
+3) [ 0 0 6 8 8 13 14 ]
+4) [ 0 0 6 8 12 13 14 ]
 
-    """
-        n, k = map(int, input().split())
-        items = [tuple(map(int, input().split())) for _ in range(n)]
+    """ 2차원 배열로 풀기 (메모리, 시간 효율 떨어짐)
+        W = [0] * (n+1)
+        V = [0] * (n+1)
+        for i in range(1, n+1):
+            W[i], V[i] = map(int, input().split())
         
-        # DP 테이블 초기화: (n+1) x (k+1)
-        dp = [[0] * (k + 1) for _ in range(n + 1)]
-        
-        # DP 진행
-        for i in range(1, n + 1):
-            weight, value = items[i - 1]
-            for w in range(k + 1):
-                if w < weight:
-                    dp[i][w] = dp[i - 1][w]  # 현재 물건을 넣을 수 없는 경우
+        D = [[0] * (maxw+1) for _ in range(n)]
+        for i in range(n):
+            for wi in range(maxw+1):
+                if wi < W[i]:
+                    D[i][wi] = D[i-1][wi]
                 else:
-                    dp[i][w] = max(dp[i - 1][w], dp[i - 1][w - weight] + value)
-                
-        # 정답은 마지막 칸
-        print(dp[n][k])
+                    D[i][wi] = max(D[i-1][wi],  D[i-1][wi-W[i]] + V[i])
+            
+        print(D[n-1][maxw])
     """
 '''
