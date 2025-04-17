@@ -29,4 +29,5 @@
 | [2696](https://www.acmicpc.net/problem/2696) | Find Median - double heap | [solved (py)](baekjoon/FindMedian.py) |
 | [12865](https://www.acmicpc.net/problem/12865) | Knapsack - DP | [solved (py)](baekjoon/Knapsack.py) |
 | [2293](https://www.acmicpc.net/problem/2293) | Coin1 - DP | [solved (py)](baekjoon/Coin1.py) |
-| [10986](https://www.acmicpc.net/problem/10986) | Remainder Sum - prefix sum | [solved (py)](baekjoon/RemainderSum.py) |
+| [10986](https://www.acmicpc.net/problem/10986) | Remainder Sum - PS, Combination | [solved (py)](baekjoon/RemainderSum.py) |
+app.py
