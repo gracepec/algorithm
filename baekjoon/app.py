@@ -1,4 +1,3 @@
-import heapq
 import sys
 input = sys.stdin.readline
 
@@ -7,16 +6,24 @@ M = list(map(int, input().split()))
 C = list(map(int, input().split()))
 
 D = [0] * 10005
-fi = 10
+fup = C[0]
 for i in range(n):
+    fi = fup
     for ci in range(fi, -1, -1):
-        if D[fi] != 0:
-            D[fi+C[i]] = max(D[fi+C[i]], D[fi]+M[i])
+        if D[ci] != 0:
+            D[ci+C[i]] = max(D[ci+C[i]], D[ci]+M[i])
+            fup = max(fup, ci+C[i])
     D[C[i]] = max(D[C[i]], M[i])
-print(D)
+
+for i in range(fup+1):
+    if D[i] >= p:
+        print(i)
+        break
 
 '''7579
-# 
+# 주어진 메모리를 확보하기 위한 최소비용 계산 - DP + 배낭문제 활용
+ - D: 비용을 인덱스로 가지는 최대 메모리 (비어있는 인덱스 많음)
+ - fup : D의 finish index를 업데이트 하는 변수
 
 n=5 p=60
 M 30 10 20 35 40
@@ -37,6 +44,5 @@ D [0][1][2][3][4]
 9
 10        (100X)
 
-0이 아니면 초기화x 
-
+(비어있는 인덱스) 0이면 계산x
 '''
