@@ -6,5 +6,5 @@ def solution(arr):
     return res
 
 ''' 12906
-# 같은 숫자는 싫어
+# 같은 숫자는 싫어 - stack
 '''

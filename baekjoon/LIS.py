@@ -17,6 +17,8 @@ res = len(L) - 1
 print(res)
 
 '''
+# LIS : 최장 증가 부분 수열
+
 bisect_left(A, x): A 배열에서 x보다 크거나 같은 첫 번째 인덱스 반환
         -> LIS 배열에서 가장 왼쪽 위치를 반환 (이진탐색 O(log N))
 '''

@@ -19,7 +19,7 @@ for _ in range(n):
     print(D[ch][r] - D[ch][l-1])
 
 '''
-# l, r 사이 특정 알파벳이 몇 번 나타나는지 구하는 문제 (50점)
+# l, r 사이 특정 알파벳이 몇 번 나타나는지 구하는 문제 (50점) - prefix sum
     (PyPy3 언어로 제출 시 100점 sol)
 
 ord() : 문자(char) ASCII 변환(int) 

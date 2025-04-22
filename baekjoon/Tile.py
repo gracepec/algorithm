@@ -13,6 +13,7 @@ for i in range(3, n+1):
 print(D[n])
 
 '''
+# fibonacci
 피보나치 수열이 된다는 아이디어 혹은 발견
 memory -> 나머지 연산을 반복문 안에서 계산
 '''

@@ -18,5 +18,5 @@ for _ in range(n):
             print(0)
 
 '''
-# 절대값 힙
+# 절대값 힙 - heap
 '''

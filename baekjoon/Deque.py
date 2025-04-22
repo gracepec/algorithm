@@ -30,7 +30,7 @@ for _ in range(n):
         print(dq[-1]) if dq else print(-1)
 
 '''
-# 덱 사용 기본 문제
+# 덱 사용 기본 문제 - deque
 
 반복문 속 input()사용 : 시간초과
   -> sys.stdin.read()
