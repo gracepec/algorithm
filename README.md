@@ -8,6 +8,7 @@
 | [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | No Duplicates | stack | [solved (py)](programmers/NoDuplicates.py) |
 | [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | More Spicy | heap | [solved (py)](programmers/MoreSpicy.py) |
 | [42748](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | Kth Number | sort | [solved (py)](programmers/KthNumber.py) |
+| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Card Wallet | bf | [solved (py)](programmers/CardWallet.py) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
