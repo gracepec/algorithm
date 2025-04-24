@@ -8,14 +8,17 @@
 | [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | No Duplicates | stack | [solved (py)](programmers/NoDuplicates.py) |
 | [42626](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | More Spicy | heap | [solved (py)](programmers/MoreSpicy.py) |
 | [42748](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | Kth Number | sort | [solved (py)](programmers/KthNumber.py) |
-| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Card Wallet | bf | [solved (py)](programmers/CardWallet.py) |
+| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Card Wallet | brute force | [solved (py)](programmers/CardWallet.py) |
 | [42862](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | Gym Clothes | greedy | [solved (py)](programmers/GymClothes.py) |
 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | Integer Triangle | DP | [solved (py)](programmers/IntegerTriangle.py) |
 | [43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Target Number | DFS | [solved (py)](programmers/TargetNumber.py) |
-| [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Develop Funtion | list | [solved (py)](programmers/DevelopFuntion.py) |
-| [43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | Entry Screening | DFS | [solved (py)](programmers/EntryScreening.py) |
+| [43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | Entry Screening | binary search | [solved (py)](programmers/EntryScreening.py) |
 | [1844](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Shortest Path Game | BFS | [solved (py)](programmers/ShortestPathGame.py) |
 | [49189](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Furthest Node | Graph, BFS | [solved (py)](programmers/FurthestNode.py) |
+| [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Develop Funtion | list | [solved (py)](programmers/DevelopFuntion.py) |
+| [42627](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Disk Controller | heap | [solved (py)](programmers/DiskController.py) |
+| [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | Biggest Number | sort | [solved (py)](programmers/BiggestNumber.py) |
+| [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Mock Exam | brute force | [solved (py)](programmers/MockExam.py) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
