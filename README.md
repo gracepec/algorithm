@@ -13,6 +13,9 @@
 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | Integer Triangle | DP | [solved (py)](programmers/IntegerTriangle.py) |
 | [43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Target Number | DFS | [solved (py)](programmers/TargetNumber.py) |
 | [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Develop Funtion | list | [solved (py)](programmers/DevelopFuntion.py) |
+| [43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | Entry Screening | DFS | [solved (py)](programmers/EntryScreening.py) |
+| [1844](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Shortest Path Game | BFS | [solved (py)](programmers/ShortestPathGame.py) |
+| [49189](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Furthest Node | Graph, BFS | [solved (py)](programmers/FurthestNode.py) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
