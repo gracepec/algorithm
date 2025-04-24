@@ -12,6 +12,7 @@
 | [42862](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | Gym Clothes | greedy | [solved (py)](programmers/GymClothes.py) |
 | [43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | Integer Triangle | DP | [solved (py)](programmers/IntegerTriangle.py) |
 | [43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Target Number | DFS | [solved (py)](programmers/TargetNumber.py) |
+| [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Develop Funtion | list | [solved (py)](programmers/DevelopFuntion.py) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
