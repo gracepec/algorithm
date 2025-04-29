@@ -42,6 +42,8 @@
 | [10986](https://www.acmicpc.net/problem/10986) | Remainder Sum | PS, Combination | [solved (py)](baekjoon/RemainderSum.py) |
 | [12865](https://www.acmicpc.net/problem/12865) | Knapsack | DP, knapsack | [solved (py)](baekjoon/Knapsack.py) |
 | [7579](https://www.acmicpc.net/problem/7579) | App | DP, Knapsack | [solved (py)](baekjoon/App.py) |
+| [2606](https://www.acmicpc.net/problem/2606) | Virus | graph, dfs(bfs) | [solved (py)](baekjoon/Virus.py) |
+| [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [solved (py)](baekjoon/DFSnBFS.py) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
