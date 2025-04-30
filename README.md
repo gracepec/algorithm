@@ -1,5 +1,6 @@
 # algorithm
-[Web Compiler](https://www.mycompiler.io/ko)
+[myCompiler](https://www.mycompiler.io/ko/new/python)
+[Tio](https://tio.run/#python3)
 
 ### ✅ 프로그래머스 [(Programmers)](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
@@ -44,6 +45,9 @@
 | [7579](https://www.acmicpc.net/problem/7579) | App | DP, Knapsack | [solved (py)](baekjoon/App.py) |
 | [2606](https://www.acmicpc.net/problem/2606) | Virus | graph, dfs(bfs) | [solved (py)](baekjoon/Virus.py) |
 | [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [solved (py)](baekjoon/DFSnBFS.py) |
+| [7576](https://www.acmicpc.net/problem/7576) | Tomato | bfs | [solved (py)](baekjoon/Tomato.py) |
+| [7569](https://www.acmicpc.net/problem/7569) | Tomato2 | bfs, 3d | [solved (py)](baekjoon/Tomato2.py) |
+| [16928](https://www.acmicpc.net/problem/16928) | Snake Ladder Game | bfs | [ (py)](baekjoon/SnakeGame.py) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
