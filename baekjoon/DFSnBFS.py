@@ -9,9 +9,10 @@ for _ in range(e):
     a, b = map(int, input().split())
     G[a].append(b)
     G[b].append(a)
+for g in G:
+    g.sort()
 
 V = [False] * (n+1)
-Res = []
 def dfs(cn):
     V[cn] = True
     Res.append(cn)
@@ -21,23 +22,27 @@ def dfs(cn):
             
 def bfs(sn):
     V = [False] * (n+1)
-    V[sn] = True
-    Res = []
     q = deque([sn])
     while q:
         cn = q.popleft()
         V[cn] = True
         Res.append(cn)
         for nn in G[cn]:
-            if not V[nn]:
+            if not V[nn] and not nn in q:
                 q.append(nn)
     
-    
-dfs(1)
-print(Res)
+Res = []
+dfs(sn)
+print(" ".join(map(str, Res)))
 
-bfs(1)
-print(Res)
+Res = []
+bfs(sn)
+print(" ".join(map(str, Res)))
 
 ''' 1260
+sn: start node
+cn: current node
+nn: next node
+V: Visited bool
+G: Graph
 '''
