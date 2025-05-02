@@ -47,7 +47,8 @@
 | [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [solved (py)](baekjoon/DFSnBFS.py) |
 | [7576](https://www.acmicpc.net/problem/7576) | Tomato | bfs | [solved (py)](baekjoon/Tomato.py) |
 | [7569](https://www.acmicpc.net/problem/7569) | Tomato2 | bfs, 3d | [solved (py)](baekjoon/Tomato2.py) |
-| [16928](https://www.acmicpc.net/problem/16928) | Snake Ladder Game | bfs | [ (py)](baekjoon/SnakeGame.py) |
+| [16928](https://www.acmicpc.net/problem/16928) | Snake Ladder Game | bfs | [solved (py)](baekjoon/SnakeGame.py) |
+| [2206](https://www.acmicpc.net/problem/2206) | Break the wall and Move | bfs | [solved (py)](baekjoon/BreakingMove.py) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
