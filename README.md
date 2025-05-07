@@ -26,7 +26,7 @@
 |----------|----------|------|------|
 | [4949](https://www.acmicpc.net/problem/4949) | String Explosion | stack | [solved (py)](baekjoon/StringExplosion.py) |
 | [9935](https://www.acmicpc.net/problem/9935) | Balanced World | stack | [solved (py)](baekjoon/BalancedWorld.py) |
-| [17298](https://www.acmicpc.net/problem/17298) | NGE | stack | [in progress (py)](baekjoon/NGE.py) |
+| [17298](https://www.acmicpc.net/problem/17298) | NGE | stack | [solved (py)](baekjoon/NGE.py) |
 | [28279](https://www.acmicpc.net/problem/28279) | Deque | deque | [solved (py)](baekjoon/Deque.py) |
 | [11286](https://www.acmicpc.net/problem/11286) | Abs Heap | heap | [solved (py)](baekjoon/AbsHeap.py) |
 | [2696](https://www.acmicpc.net/problem/2696) | Find Median | double heap | [solved (py)](baekjoon/FindMedian.py) |
@@ -49,6 +49,7 @@
 | [7569](https://www.acmicpc.net/problem/7569) | Tomato2 | bfs, 3d | [solved (py)](baekjoon/Tomato2.py) |
 | [16928](https://www.acmicpc.net/problem/16928) | Snake Ladder Game | bfs | [solved (py)](baekjoon/SnakeGame.py) |
 | [2206](https://www.acmicpc.net/problem/2206) | Break the wall and Move | bfs | [solved (py)](baekjoon/BreakingMove.py) |
+| [1707](https://www.acmicpc.net/problem/1707) | Bipartite Graph | gragh, dfs | [in prog (py)](baekjoon/BipartiteGraph.py) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
