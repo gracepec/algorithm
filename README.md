@@ -20,6 +20,7 @@
 | [42627](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Disk Controller | heap | [solved (py)](programmers/DiskController.py) |
 | [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | Biggest Number | sort | [solved (py)](programmers/BiggestNumber.py) |
 | [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Mock Exam | brute force | [solved (py)](programmers/MockExam.py) |
+| [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Best Album | dict, heap, sort | [solved (py)](programmers/BestAlbum.py) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
