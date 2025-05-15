@@ -22,6 +22,7 @@
 | [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Mock Exam | brute force | [solved (py)](programmers/MockExam.py) |
 | [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Best Album | dict, heap, sort | [solved (py)](programmers/BestAlbum.py) |
 | [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Bridge Truck | queue(deque) | [solved (py)](programmers/BridgeTruck.py) |
+| [86971](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Divide Tree | graph, dfs, bf | [solved (py)](programmers/DivideTree.py) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
