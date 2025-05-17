@@ -22,8 +22,8 @@
 | [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Mock Exam | brute force | [solved (py)](programmers/MockExam.py) |
 | [42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Best Album | dict, heap, sort | [solved (py)](programmers/BestAlbum.py) |
 | [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Bridge Truck | queue(deque) | [solved (py)](programmers/BridgeTruck.py) |
+| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Bridge Truck | queue(deque) | [solved (java)](programmers/BridgeTruck.java) |
 | [86971](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Divide Tree | graph, dfs, bf | [solved (py)](programmers/DivideTree.py) |
-| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Bridge Truck | queue, deque | [solved (java)](programmers/BridgeTruck.java) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
@@ -54,8 +54,9 @@
 | [16928](https://www.acmicpc.net/problem/16928) | Snake Ladder Game | bfs | [solved (py)](baekjoon/SnakeGame.py) |
 | [2206](https://www.acmicpc.net/problem/2206) | Break the wall and Move | bfs | [solved (py)](baekjoon/BreakingMove.py) |
 | [1707](https://www.acmicpc.net/problem/1707) | Bipartite Graph | graph, dfs | [solved (py)](baekjoon/BipartiteGraph.py) |
-| [1707](https://www.acmicpc.net/problem/1707) | Line Up | 위상정렬, dfs | [solved (py)](baekjoon/LineUp.py) |
-| [1707](https://www.acmicpc.net/problem/1707) | Work book | 위상정렬, bfs, heap | [solved (py)](baekjoon/BipartiteGraph.py) |
+| [2252](https://www.acmicpc.net/problem/2252) | Line Up | 위상정렬, dfs | [solved (py)](baekjoon/LineUp.py) |
+| [1766](https://www.acmicpc.net/problem/1766) | Work book | 위상정렬, bfs, heap | [solved (py)](baekjoon/BipartiteGraph.py) |
+| [8979](https://www.acmicpc.net/problem/8979) | Olympics | sort | [solved (java)](baekjoon/Olympics.java) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
