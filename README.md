@@ -57,6 +57,7 @@
 | [2252](https://www.acmicpc.net/problem/2252) | Line Up | 위상정렬, dfs | [solved (py)](baekjoon/LineUp.py) |
 | [1766](https://www.acmicpc.net/problem/1766) | Work book | 위상정렬, bfs, heap | [solved (py)](baekjoon/BipartiteGraph.py) |
 | [8979](https://www.acmicpc.net/problem/8979) | Olympics | sort | [solved (java)](baekjoon/Olympics.java) |
+| [11660](https://www.acmicpc.net/problem/11660) | PrefixSum5 | DP, 2차원 PS | [solved (java)](baekjoon/PrefixSum5.java) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
