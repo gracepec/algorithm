@@ -59,7 +59,7 @@
 | [8979](https://www.acmicpc.net/problem/8979) | Olympics | sort | [solved (java)](baekjoon/Olympics.java) |
 | [11660](https://www.acmicpc.net/problem/11660) | PrefixSum5 | DP, 2차원 PS | [solved (java)](baekjoon/PrefixSum5.java) |
 | [4779](https://www.acmicpc.net/problem/4779) | CantorSet | Recursion | [solved (py)](baekjoon/CantorSet.py) |
-| [4779](https://www.acmicpc.net/problem/4779) | CantorSet | Recursion | [in P (java)](baekjoon/CantorSet.java) |
+| [4779](https://www.acmicpc.net/problem/4779) | CantorSet | Recursion | [solved (java)](baekjoon/CantorSet.java) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
