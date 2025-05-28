@@ -8,27 +8,25 @@ class Main {
         String line;
         while ((line = br.readLine()) != null && !line.isEmpty()) {
             int N = Integer.parseInt(line);
-
-            Char[] C = new Char[3**N];
+            int p = (int) Math.pow(3, N);
             
-            Cantor(C)
+            char[] C = new char[p];
+            Arrays.fill(C, '-');
+            
+            Cantor(C, 0, p);
+            System.out.println(C);
         }
     }
 
-    private void Cantor(String[] C, int l, int r) {
-        tri = (r-l+1) / 3;
+    private static void Cantor(char[] C, int l, int r) {
+        int tri = (r-l+1) / 3;
 
         for (int i = 0; i < tri; i++)
             C[l+tri+i] = ' ';
         
         if (tri > 1) {
-            for (int i = l; i < r; i++)
-                System.out.print(C[i])
-            return;
+            Cantor(C, l, l+tri);
+            Cantor(C, l+tri*2, r);
         }
-        
-        Cantor(C, l, l+tri);
-        Cantor(C, l+tri*2, r);
-
     }
 }
