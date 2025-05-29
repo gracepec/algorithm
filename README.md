@@ -60,6 +60,8 @@
 | [11660](https://www.acmicpc.net/problem/11660) | PrefixSum5 | DP, 2차원 PS | [solved (java)](baekjoon/PrefixSum5.java) |
 | [4779](https://www.acmicpc.net/problem/4779) | CantorSet | Recursion | [solved (py)](baekjoon/CantorSet.py) |
 | [4779](https://www.acmicpc.net/problem/4779) | CantorSet | Recursion | [solved (java)](baekjoon/CantorSet.java) |
+| [12789](https://www.acmicpc.net/problem/12789) | DokiDoki | Queue, Stack | [solved (py)](baekjoon/DokiDoki.py) |
+| [12789](https://www.acmicpc.net/problem/12789) | DokiDoki | Queue, Stack | [solved (java)](baekjoon/DokiDoki.java) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
