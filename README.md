@@ -54,6 +54,7 @@
 | [7579](https://www.acmicpc.net/problem/7579) | App | DP, Knapsack | [solved (py)](baekjoon/App.py) |
 | [2606](https://www.acmicpc.net/problem/2606) | Virus | graph, dfs(bfs) | [solved (py)](baekjoon/Virus.py) |
 | [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [solved (py)](baekjoon/DFSnBFS.py) |
+| [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [in P] (java)](baekjoon/DFSnBFS.java) |
 | [7576](https://www.acmicpc.net/problem/7576) | Tomato | bfs | [solved (py)](baekjoon/Tomato.py) |
 | [7569](https://www.acmicpc.net/problem/7569) | Tomato2 | bfs, 3d | [solved (py)](baekjoon/Tomato2.py) |
 | [16928](https://www.acmicpc.net/problem/16928) | Snake Ladder Game | bfs | [solved (py)](baekjoon/SnakeGame.py) |
