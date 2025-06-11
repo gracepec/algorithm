@@ -5,7 +5,7 @@
 ### ✅ 구름 [(Goorm)](https://level.goorm.io/)
 | 난이도 | 문제 이름 | 유형 | 코드 |
 |----------|----------|------|------|
-| [Level 2](https://level.goorm.io/exam/355197/%EB%A7%B9%EC%88%98-%ED%8F%AC%ED%9A%8D/quiz/1) | 맹수 포획 | if | [in P (java)](goorm/CaptureBeast.java) |
+| [Level 2](https://level.goorm.io/exam/355197/%EB%A7%B9%EC%88%98-%ED%8F%AC%ED%9A%8D/quiz/1) | 맹수 포획 | if | solved (java) |
 
 ### ✅ 프로그래머스 [(Programmers)](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
@@ -54,7 +54,7 @@
 | [7579](https://www.acmicpc.net/problem/7579) | App | DP, Knapsack | [solved (py)](baekjoon/App.py) |
 | [2606](https://www.acmicpc.net/problem/2606) | Virus | graph, dfs(bfs) | [solved (py)](baekjoon/Virus.py) |
 | [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [solved (py)](baekjoon/DFSnBFS.py) |
-| [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [in P] (java)](baekjoon/DFSnBFS.java) |
+| [1260](https://www.acmicpc.net/problem/1260) | DFS and BFS | graph, dfs, bfs | [solved (java)](baekjoon/DFSnBFS.java) |
 | [7576](https://www.acmicpc.net/problem/7576) | Tomato | bfs | [solved (py)](baekjoon/Tomato.py) |
 | [7569](https://www.acmicpc.net/problem/7569) | Tomato2 | bfs, 3d | [solved (py)](baekjoon/Tomato2.py) |
 | [16928](https://www.acmicpc.net/problem/16928) | Snake Ladder Game | bfs | [solved (py)](baekjoon/SnakeGame.py) |
