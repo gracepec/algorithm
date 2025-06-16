@@ -5,7 +5,7 @@
 ### ✅ 구름 [(Goorm)](https://level.goorm.io/)
 | 난이도 | 문제 이름 | 유형 | 코드 |
 |----------|----------|------|------|
-| [Level 2](https://level.goorm.io/exam/355197/%EB%A7%B9%EC%88%98-%ED%8F%AC%ED%9A%8D/quiz/1) | 맹수 포획 | if | solved (java) |
+| [Level 2](https://level.goorm.io/exam/355197/%EB%A7%B9%EC%88%98-%ED%8F%AC%ED%9A%8D/quiz/1) | 맹수 포획 | if | [solved (java)](goorm/CaptureBeast.java) |
 | [Level 2](https://level.goorm.io/exam/195698/%EC%97%B0%ED%95%A9/quiz/1) | 연합 | graph, dfs, set | [solved (java)](goorm/Union.java) |
 
 ### ✅ 프로그래머스 [(Programmers)](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
@@ -69,6 +69,7 @@
 | [4779](https://www.acmicpc.net/problem/4779) | CantorSet | Recursion | [solved (java)](baekjoon/CantorSet.java) |
 | [12789](https://www.acmicpc.net/problem/12789) | DokiDoki | Queue, Stack | [solved (py)](baekjoon/DokiDoki.py) |
 | [12789](https://www.acmicpc.net/problem/12789) | DokiDoki | Queue, Stack | [solved (java)](baekjoon/DokiDoki.java) |
+| [24060](https://www.acmicpc.net/problem/24060) | 병합정렬 |  | [in p (java)](baekjoon/MergeSort.java) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
