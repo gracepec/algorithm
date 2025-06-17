@@ -2,28 +2,37 @@ import java.util.*;
 import java.io.*;
 
 class Main {
+    static int cnt;
+    static int ans;
+    static int k;
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int k = sc.nextInt();
+        k = sc.nextInt();
 
         int[] A = new int[n];
         for (int i = 0; i < n; i++) {
             A[i] = sc.nextInt();
         }
 
+        cnt = 0; 
+        ans = 0;
         merge_sort(A, 0, n-1);
 
-        System.out.println(Arrays.toString(A));
+        if (cnt < k)
+            System.out.println(-1);
+        else
+            System.out.println(ans);
     }
 
     // # A[p..r]을 오름차순 정렬한다.
     static void merge_sort(int[] A, int p, int r) {
         if (p < r) {
-            int q = (int) Math.ceil((p + r) / 2); // # q는 p, r의 중간 지점
-            merge_sort(A, p, q);                  // # 전반부 정렬
-            merge_sort(A, q + 1, r);              // # 후반부 정렬
-            merge(A, p, q, r);                    // # 병합
+            int q = (p + r) / 2;              // # q는 p, r의 중간 지점
+            merge_sort(A, p, q);              // # 전반부 정렬
+            merge_sort(A, q + 1, r);          // # 후반부 정렬
+            merge(A, p, q, r);                // # 병합
         }
     }
     
@@ -34,7 +43,7 @@ class Main {
         int j = q + 1;
         int t = 1;
 
-        int[] tmp = new int[A.length + 1];
+        int[] tmp = new int[r - p + 2];
         while (i <= q && j <= r) {
             if (A[i] <= A[j])
                 tmp[t++] = A[i++];  // # tmp[t] <- A[i]; t++; i++;
@@ -47,11 +56,16 @@ class Main {
             tmp[t++] = A[j++];
         i = p;
         t = 1;
-        while (i <= r) // # 결과를 A[p..r]에 저장
+        while (i <= r) { // # 결과를 A[p..r]에 저장
             A[i++] = tmp[t++];
+            cnt++;
+            if (cnt == k) {
+                ans = A[i-1];
+                return;
+            }
+        }
     }
 }
 /* 24060
 알고리즘 수업 - 병합 정렬 1: 주어진 수도코드로 병합정렬이 이루어지는 k번째 수 찾기
-    -> 아직 여기까지 코드는 그냥 받은 배열 병합 정렬하는 거 까지만 구현,
 */
