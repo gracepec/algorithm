@@ -30,6 +30,7 @@
 | [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Bridge Truck | queue(deque) | [solved (py)](programmers/BridgeTruck.py) |
 | [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Bridge Truck | queue(deque) | [solved (java)](programmers/BridgeTruck.java) |
 | [86971](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Divide Tree | graph, dfs, bf | [solved (py)](programmers/DivideTree.py) |
+| [150365](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java) | Escape Miro Commend | (dfs), bfs | [in p (py)](programmers/EscapeMiro.java) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
