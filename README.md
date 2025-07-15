@@ -33,7 +33,6 @@
 | [150365](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=java) | Escape Miro Commend | (dfs), bfs | [in p (py)](programmers/EscapeMiro.java) |
 | [43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Transform Word | bfs | [solved (py)](programmers/TransformWord.py) |
 | [43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java) | Transform Word | bfs | [solved (py)](programmers/TransformWord.java) |
-| [14503](https://school.programmers.co.kr/learn/courses/30/lessons/14503) | Robot Vacuum Cleaner | 구현 | [in P (py)](programmers/RobotVacuumCleaner.py) |
 
 ### ✅ 백준 [(Beakjoon)](https://www.acmicpc.net/step)
 | 문제 번호 | 문제 이름 | 유형 | 코드 |
@@ -74,6 +73,7 @@
 | [12789](https://www.acmicpc.net/problem/12789) | DokiDoki | Queue, Stack | [solved (py)](baekjoon/DokiDoki.py) |
 | [12789](https://www.acmicpc.net/problem/12789) | DokiDoki | Queue, Stack | [solved (java)](baekjoon/DokiDoki.java) |
 | [24060](https://www.acmicpc.net/problem/24060) | 병합정렬 |  | [in p (java)](baekjoon/MergeSort.java) |
+| [14503](https://www.acmicpc.net/problem/14503) | Robot Vacuum Cleaner | 구현 | [in P (py)](baekjoon/RobotVacuumCleaner.py) |
 
 ### ✅ 코드포스 (Codeforces)
 | 문제 번호 | 문제 이름 | 코드 |
