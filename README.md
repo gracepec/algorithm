@@ -83,3 +83,13 @@
 | [327A](https://codeforces.com/contest/327/problem/A) | Flipping Game - DP | [solved (py)](codeforces/FlippingGame.py) |
 | [1003C](https://codeforces.com/contest/1003/problem/C) | Intense Heat - Prefix Sum | [solved (py)](codeforces/IntenseHeat.py) |
 | [448C](https://codeforces.com/contest/448/problem/C) | Painting Fence - Recursion | [in progress (py)](codeforces/PaintingFence.py) |
+
+### ✅ 코더바이트 [(Coderbyte-크리마 코테)](https://coderbyte.com/developers)
+| 분류 | 문제 이름 | 유형 | 코드 |
+|----------|----------|------|------|
+| Array | Anagram | set, sort |
+| Math | Equal Zero | tree |
+| String | zig-zag Sort | array |
+| Graph | Shortest Path | bfs |
+| Array | Maximum Rectangle | if |
+
